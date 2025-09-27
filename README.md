@@ -1,36 +1,127 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Mumismo - Business Process Optimization Platform
 
-## Getting Started
+A modern Next.js application built with Material-UI for helping local companies optimize their business processes and manage their operations more efficiently.
 
-First, run the development server:
+## 🚀 Features
 
+- **Modern UI/UX**: Built with Material-UI for a professional and responsive design
+- **Process Optimization**: Tools and services to streamline business workflows
+- **Item Management**: Advanced inventory and asset tracking capabilities
+- **Business Consulting**: Expert guidance and support for local businesses
+- **Responsive Design**: Works seamlessly across desktop, tablet, and mobile devices
+- **TypeScript**: Full type safety and better development experience
+
+## 🛠️ Tech Stack
+
+- **Framework**: Next.js 15 with App Router
+- **UI Library**: Material-UI (MUI) v7
+- **Styling**: Emotion (CSS-in-JS)
+- **Language**: TypeScript
+- **Linting**: ESLint with Next.js config
+
+## 📦 Installation
+
+1. Clone the repository:
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+git clone <repository-url>
+cd mumismo
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+2. Install dependencies:
+```bash
+npm install
+```
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+3. Run the development server:
+```bash
+npm run dev
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+4. Open [http://localhost:3000](http://localhost:3000) in your browser.
 
-## Learn More
+## 🏗️ Project Structure
 
-To learn more about Next.js, take a look at the following resources:
+```
+src/
+├── app/                    # Next.js App Router
+│   ├── layout.tsx         # Root layout with theme provider
+│   └── page.tsx           # Home page
+├── components/            # Reusable components
+│   ├── layout/           # Layout components (Header, Footer)
+│   └── sections/         # Page sections (Hero, Services, About, Contact)
+└── theme/                # Material-UI theme configuration
+    └── theme.ts          # Custom theme settings
+```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🎨 Customization
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+### Theme Configuration
+The Material-UI theme is configured in `src/theme/theme.ts`. You can customize:
+- Color palette (primary, secondary, background)
+- Typography settings
+- Component styling overrides
 
-## Deploy on Vercel
+### Adding New Pages
+1. Create a new file in the `src/app/` directory
+2. Export a default React component
+3. Add navigation links in `src/components/layout/Header.tsx`
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### Adding New Components
+1. Create component files in `src/components/`
+2. Follow the existing naming conventions
+3. Use TypeScript for type safety
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 🚀 Deployment
+
+### Vercel (Recommended)
+1. Push your code to GitHub
+2. Connect your repository to Vercel
+3. Deploy automatically
+
+### Other Platforms
+```bash
+# Build the application
+npm run build
+
+# Start production server
+npm start
+```
+
+## 📱 Responsive Design
+
+The application is fully responsive and includes:
+- Mobile-first design approach
+- Breakpoint-based layouts
+- Touch-friendly navigation
+- Optimized images and assets
+
+## 🎯 Services Offered
+
+- **Process Analysis**: Comprehensive workflow analysis and optimization
+- **Inventory Management**: Advanced tracking and management systems
+- **Business Consulting**: Strategic planning and implementation support
+- **Data Security**: Secure data management solutions
+- **Quick Implementation**: Fast deployment with minimal disruption
+- **Performance Monitoring**: Continuous optimization and reporting
+
+## 🤝 Contributing
+
+1. Fork the repository
+2. Create a feature branch (`git checkout -b feature/amazing-feature`)
+3. Commit your changes (`git commit -m 'Add some amazing feature'`)
+4. Push to the branch (`git push origin feature/amazing-feature`)
+5. Open a Pull Request
+
+## 📄 License
+
+This project is private and proprietary to Mumismo.
+
+## 📞 Contact
+
+- **Email**: hi@mumismo.com
+- **Phone**: +1 (555) 123-4567
+- **Website**: [mumismo.com](https://mumismo.com)
+
+---
+
+Built with ❤️ by the Mumismo team

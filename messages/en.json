@@ -1,0 +1,192 @@
+{
+  "metadata": {
+    "title": "Mumismo - Business Process Optimization & IT Solutions",
+    "description": "Transform your business with cutting-edge IT solutions. We specialize in process optimization, cloud services, AI integration, and blockchain solutions that drive growth and efficiency."
+  },
+  "navigation": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "contact": "Contact Us"
+  },
+  "hero": {
+    "title": "Scale Your Business",
+    "titleHighlight": "Not Your Problems",
+    "subtitle": "We deliver cutting-edge IT solutions that automate processes, enhance efficiency, and drive growth for modern businesses. From cloud services to AI integration, we're your technology partner for success.",
+    "getStarted": "Get Started",
+    "freeConsultation": "Free Consultation",
+    "learnMore": "Learn More",
+    "stats": {
+      "businessesOptimized": "Businesses Optimized",
+      "clientSatisfaction": "Client Satisfaction",
+      "yearsExperience": "Years Experience"
+    }
+  },
+  "about": {
+    "title": "About Us",
+    "subtitle": "We are a specialized team dedicated to helping businesses achieve significant cost savings and often drive revenue growth by optimizing their processes and managing their operations more efficiently",
+    "imageAlt": "Task management and project scheduling dashboard",
+    "mission": {
+      "title": "Our Mission",
+      "description": "We help businesses scale by automating repetitive tasks and optimizing processes. Our mission is to eliminate manual work through dedicated solutions, enabling you to focus on what matters most—growing your business."
+    },
+    "stats": {
+      "projectsCompleted": "Projects Completed",
+      "yearsExperience": "Years Experience",
+      "clientSatisfaction": "Client Satisfaction"
+    }
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "We specialize in rapid delivery of IT services that manage and optimize processes in companies and organizations. Our expertise spans cloud services, artificial intelligence, and blockchain solutions",
+    "items": {
+      "processOptimization": {
+        "title": "Process Optimization",
+        "description": "Streamline your business workflows with intelligent automation and data-driven insights that reduce costs and increase productivity."
+      },
+      "cloudServices": {
+        "title": "Cloud Services",
+        "description": "Scalable cloud solutions that grow with your business and reduce operational costs while ensuring security and reliability."
+      },
+      "aiIntegration": {
+        "title": "AI Integration",
+        "description": "Harness artificial intelligence to automate tasks and make smarter business decisions that drive competitive advantage."
+      },
+      "blockchainSolutions": {
+        "title": "Blockchain Solutions",
+        "description": "Secure, transparent systems that enhance trust and efficiency in your operations with cutting-edge blockchain technology."
+      },
+      "monitoringTools": {
+        "title": "Monitoring Tools",
+        "description": "Advanced monitoring and analytics tools to track performance and optimize your systems in real-time."
+      },
+      "systemManagement": {
+        "title": "System Management",
+        "description": "Comprehensive management and monitoring of your IT infrastructure and processes for maximum uptime and efficiency."
+      }
+    }
+  },
+  "contact": {
+    "title": "Get In Touch",
+    "subtitle": "Ready to optimize your business processes? Contact us today for a free consultation and let's discuss how we can help transform your operations.",
+    "form": {
+      "title": "Send us a message",
+      "name": "Name",
+      "email": "Email",
+      "message": "Message",
+      "sendMessage": "Send Message",
+      "successMessage": "Thank you for your message! We'll get back to you soon.",
+      "company": "Company Name",
+      "messagePlaceholder": "Tell us more about your project, challenges, or any specific requirements...",
+      "validation": {
+        "nameRequired": "Name is required",
+        "emailRequired": "Email is required",
+        "emailInvalid": "Email is invalid",
+        "companyRequired": "Company is required",
+        "messageRequired": "Message is required"
+      }
+    },
+    "info": {
+      "email": {
+        "title": "Email Us",
+        "details": "hi@mumismo.com",
+        "description": "Send us an email anytime"
+      },
+      "location": {
+        "title": "Visit Us",
+        "details": "Kraków, Poland",
+        "description": "Schedule a meeting"
+      }
+    },
+    "floatingAction": {
+      "title": "Get in Touch",
+      "email": {
+        "title": "Email Us",
+        "details": "hi@mumismo.com"
+      },
+      "schedule": {
+        "title": "Schedule Call",
+        "description": "Free consultation"
+      }
+    }
+  },
+  "footer": {
+    "description": "Transform your business with cutting-edge IT solutions. We specialize in process optimization, cloud services, AI integration, and blockchain solutions that drive growth and efficiency.",
+    "contact": {
+      "email": "Email",
+      "location": "Location"
+    },
+    "copyright": "All rights reserved."
+  },
+  "features": {
+    "processOptimization": {
+      "title": "Process Optimization",
+      "description": "Streamline your business processes for maximum efficiency and reduced costs."
+    },
+    "itemManagement": {
+      "title": "Item Management",
+      "description": "Advanced systems to track and manage your inventory and assets."
+    },
+    "businessConsulting": {
+      "title": "Business Consulting",
+      "description": "Expert guidance to help your local business grow and succeed."
+    },
+    "fastImplementation": {
+      "title": "Fast Implementation",
+      "description": "Quick deployment of solutions tailored to your specific needs."
+    }
+  },
+  "whyChooseUs": {
+    "title": "Why Us?",
+    "subtitle": "We're not just another IT company. We're your strategic partner in digital transformation, committed to delivering exceptional results that drive your business forward.",
+    "reasons": {
+      "fastImplementation": {
+        "title": "Fast Implementation",
+        "description": "We deliver solutions quickly without compromising quality. Most projects are completed within 2-4 weeks.",
+        "features": [
+          "Rapid prototyping",
+          "Agile development",
+          "Quick deployment",
+          "Immediate results"
+        ]
+      },
+      "personalApproach": {
+        "title": "Personal Approach",
+        "description": "As a small team, we provide direct access to developers and decision-makers, ensuring your project gets the attention it deserves.",
+        "features": [
+          "Direct communication",
+          "No middle management",
+          "Flexible solutions",
+          "Personal attention"
+        ]
+      },
+      "costEffective": {
+        "title": "Cost-Effective Solutions",
+        "description": "We offer competitive pricing without the overhead of large corporations, delivering maximum value for your investment.",
+        "features": [
+          "Transparent pricing",
+          "No hidden costs",
+          "Budget-friendly options",
+          "ROI-focused development"
+        ]
+      }
+    },
+    "cta": {
+      "title": "Ready to Transform Your Business?",
+      "subtitle": "Join dozens of companies that have already optimized their processes with our solutions.",
+      "stats": {
+        "yearsExperience": "Years Experience",
+        "projectsCompleted": "Projects Completed",
+        "clientSatisfaction": "Client Satisfaction"
+      }
+    }
+  },
+  "notFound": {
+    "title": "Page Not Found",
+    "subtitle": "Sorry, we couldn't find the page you're looking for.",
+    "description": "The page you requested might have been moved, deleted, or doesn't exist.",
+    "goHome": "Go Home",
+    "goBack": "Go Back"
+  }
+}
+

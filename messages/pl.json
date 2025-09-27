@@ -1,0 +1,192 @@
+{
+  "metadata": {
+    "title": "Mumismo - Optymalizacja Procesów Biznesowych i Rozwiązania IT",
+    "description": "Przekształć swój biznes dzięki nowoczesnym rozwiązaniom IT. Specjalizujemy się w optymalizacji procesów, usługach chmurowych, integracji AI i rozwiązaniach blockchain, które napędzają wzrost i efektywność."
+  },
+  "navigation": {
+    "home": "Strona główna",
+    "about": "O nas",
+    "services": "Usługi",
+    "contact": "Kontakt"
+  },
+  "hero": {
+    "title": "Rozwijaj Swój Biznes",
+    "titleHighlight": "Nie Swoje Problemy",
+    "subtitle": "Dostarczamy nowoczesne rozwiązania IT, które automatyzują procesy, zwiększają efektywność i napędzają wzrost nowoczesnych przedsiębiorstw. Od usług chmurowych po integrację AI - jesteśmy Twoim partnerem technologicznym w drodze do sukcesu.",
+    "getStarted": "Rozpocznij",
+    "freeConsultation": "Bezpłatna Konsultacja",
+    "learnMore": "Dowiedz się więcej",
+    "stats": {
+      "businessesOptimized": "Zoptymalizowanych Firm",
+      "clientSatisfaction": "Zadowolenie Klientów",
+      "yearsExperience": "Lat Doświadczenia"
+    }
+  },
+  "about": {
+    "title": "O nas",
+    "subtitle": "Jesteśmy wyspecjalizowanym zespołem, który pomaga firmom osiągnąć znaczące oszczędności kosztów i często napędza wzrost przychodów poprzez optymalizację procesów i bardziej efektywne zarządzanie operacjami",
+    "imageAlt": "Panel zarządzania zadaniami i harmonogramowaniem projektów",
+    "mission": {
+      "title": "Nasza Misja",
+      "description": "Pomagamy firmom się rozwijać, automatyzując powtarzalne zadania i optymalizując procesy. Naszą misją jest eliminacja pracy ręcznej poprzez dedykowane rozwiązania, umożliwiając Ci skupienie się na tym, co najważniejsze - rozwoju Twojego biznesu."
+    },
+    "stats": {
+      "projectsCompleted": "Zrealizowanych Projektów",
+      "yearsExperience": "Lat Doświadczenia",
+      "clientSatisfaction": "Zadowolenie Klientów"
+    }
+  },
+  "services": {
+    "title": "Nasze Usługi",
+    "subtitle": "Specjalizujemy się w szybkim dostarczaniu usług IT, które zarządzają i optymalizują procesy w firmach i organizacjach. Nasza wiedza obejmuje usługi chmurowe, sztuczną inteligencję i rozwiązania blockchain",
+    "items": {
+      "processOptimization": {
+        "title": "Optymalizacja Procesów",
+        "description": "Usprawnij swoje procesy biznesowe dzięki inteligentnej automatyzacji i analizie danych, które redukują koszty i zwiększają produktywność."
+      },
+      "cloudServices": {
+        "title": "Usługi Chmurowe",
+        "description": "Skalowalne rozwiązania chmurowe, które rozwijają się wraz z Twoim biznesem i redukują koszty operacyjne, zapewniając bezpieczeństwo i niezawodność."
+      },
+      "aiIntegration": {
+        "title": "Integracja AI",
+        "description": "Wykorzystaj sztuczną inteligencję do automatyzacji zadań i podejmowania mądrzejszych decyzji biznesowych, które zapewniają przewagę konkurencyjną."
+      },
+      "blockchainSolutions": {
+        "title": "Rozwiązania Blockchain",
+        "description": "Bezpieczne, przejrzyste systemy, które zwiększają zaufanie i efektywność w Twoich operacjach dzięki najnowszej technologii blockchain."
+      },
+      "monitoringTools": {
+        "title": "Narzędzia Monitorowania",
+        "description": "Zaawansowane narzędzia monitorowania i analityki do śledzenia wydajności i optymalizacji systemów w czasie rzeczywistym."
+      },
+      "systemManagement": {
+        "title": "Zarządzanie Systemami",
+        "description": "Kompleksowe zarządzanie i monitorowanie infrastruktury IT i procesów dla maksymalnego czasu działania i efektywności."
+      }
+    }
+  },
+  "contact": {
+    "title": "Skontaktuj się z nami",
+    "subtitle": "Gotowy na optymalizację procesów biznesowych? Skontaktuj się z nami już dziś, aby uzyskać bezpłatną konsultację i omówić, jak możemy pomóc przekształcić Twoje operacje.",
+    "form": {
+      "title": "Wyślij nam wiadomość",
+      "name": "Imię",
+      "email": "Email",
+      "message": "Wiadomość",
+      "sendMessage": "Wyślij wiadomość",
+      "successMessage": "Dziękujemy za wiadomość! Odpowiemy wkrótce.",
+      "company": "Nazwa firmy",
+      "messagePlaceholder": "Opowiedz nam więcej o swoim projekcie, wyzwaniach lub konkretnych wymaganiach...",
+      "validation": {
+        "nameRequired": "Imię jest wymagane",
+        "emailRequired": "Email jest wymagany",
+        "emailInvalid": "Email jest nieprawidłowy",
+        "companyRequired": "Nazwa firmy jest wymagana",
+        "messageRequired": "Wiadomość jest wymagana"
+      }
+    },
+    "info": {
+      "email": {
+        "title": "Napisz do nas",
+        "details": "hi@mumismo.com",
+        "description": "Wyślij nam email w dowolnym momencie"
+      },
+      "location": {
+        "title": "Odwiedź nas",
+        "details": "Kraków, Polska",
+        "description": "Umów spotkanie"
+      }
+    },
+    "floatingAction": {
+      "title": "Skontaktuj się",
+      "email": {
+        "title": "Napisz do nas",
+        "details": "hi@mumismo.com"
+      },
+      "schedule": {
+        "title": "Umów rozmowę",
+        "description": "Bezpłatna konsultacja"
+      }
+    }
+  },
+  "footer": {
+    "description": "Przekształć swój biznes dzięki nowoczesnym rozwiązaniom IT. Specjalizujemy się w optymalizacji procesów, usługach chmurowych, integracji AI i rozwiązaniach blockchain, które napędzają wzrost i efektywność.",
+    "contact": {
+      "email": "Email",
+      "location": "Lokalizacja"
+    },
+    "copyright": "Wszystkie prawa zastrzeżone."
+  },
+  "features": {
+    "processOptimization": {
+      "title": "Optymalizacja Procesów",
+      "description": "Usprawnij swoje procesy biznesowe dla maksymalnej efektywności i obniżonych kosztów."
+    },
+    "itemManagement": {
+      "title": "Zarządzanie Przedmiotami",
+      "description": "Zaawansowane systemy do śledzenia i zarządzania Twoim magazynem i aktywami."
+    },
+    "businessConsulting": {
+      "title": "Doradztwo Biznesowe",
+      "description": "Eksperckie wsparcie pomagające Twojej lokalnej firmie rozwijać się i odnosić sukcesy."
+    },
+    "fastImplementation": {
+      "title": "Szybka Implementacja",
+      "description": "Szybkie wdrożenie rozwiązań dostosowanych do Twoich specyficznych potrzeb."
+    }
+  },
+  "whyChooseUs": {
+    "title": "Dlaczego My?",
+    "subtitle": "Nie jesteśmy kolejną firmą IT. Jesteśmy Twoim strategicznym partnerem w transformacji cyfrowej, zobowiązanym do dostarczania wyjątkowych rezultatów, które napędzają rozwój Twojego biznesu.",
+    "reasons": {
+      "fastImplementation": {
+        "title": "Szybka Implementacja",
+        "description": "Dostarczamy rozwiązania szybko, nie rezygnując z jakości. Większość projektów jest realizowana w ciągu 2-4 tygodni.",
+        "features": [
+          "Szybkie prototypowanie",
+          "Zwinne podejście",
+          "Szybkie wdrożenie",
+          "Natychmiastowe rezultaty"
+        ]
+      },
+      "personalApproach": {
+        "title": "Osobiste Podejście",
+        "description": "Jako mały zespół zapewniamy bezpośredni dostęp do deweloperów i decydentów, gwarantując, że Twój projekt otrzyma uwagę, na którą zasługuje.",
+        "features": [
+          "Bezpośrednia komunikacja",
+          "Brak pośredników",
+          "Elastyczne rozwiązania",
+          "Osobista uwaga"
+        ]
+      },
+      "costEffective": {
+        "title": "Rozwiązania Ekonomiczne",
+        "description": "Oferujemy konkurencyjne ceny bez narzutu dużych korporacji, dostarczając maksymalną wartość za Twoją inwestycję.",
+        "features": [
+          "Przejrzyste ceny",
+          "Brak ukrytych kosztów",
+          "Opcje przyjazne budżetowi",
+          "Rozwój skupiony na ROI"
+        ]
+      }
+    },
+    "cta": {
+      "title": "Gotowy na Transformację Swojego Biznesu?",
+      "subtitle": "Dołącz do dziesiątek firm, które już zoptymalizowały swoje procesy dzięki naszym rozwiązaniom.",
+      "stats": {
+        "yearsExperience": "Lat Doświadczenia",
+        "projectsCompleted": "Zrealizowanych Projektów",
+        "clientSatisfaction": "Zadowolenie Klientów"
+      }
+    }
+  },
+  "notFound": {
+    "title": "Strona Nie Znaleziona",
+    "subtitle": "Przepraszamy, nie mogliśmy znaleźć strony, której szukasz.",
+    "description": "Strona, o którą prosiłeś, mogła zostać przeniesiona, usunięta lub nie istnieje.",
+    "goHome": "Strona Główna",
+    "goBack": "Wróć"
+  }
+}
+
