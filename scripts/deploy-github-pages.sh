@@ -27,7 +27,7 @@ fi
 
 # Install dependencies
 echo "📦 Installing dependencies..."
-npm ci --legacy-peer-deps
+npm ci
 
 # Run type check
 echo "🔍 Running type check..."
